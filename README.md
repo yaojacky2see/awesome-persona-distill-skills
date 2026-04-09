@@ -40,10 +40,10 @@
 ## 自我蒸馏与元工具
 
 - [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) - 面向技能交付场景，将可公开分发的技能内容与私有经验备份分离管理。
-- [数字人生.skill](https://github.com/wildbyteai/digital-life) - 从个人在日常工具中反复留下的数字痕迹中提炼结构化自我画像。
+- [数字人生.skills](https://github.com/wildbyteai/digital-life) - 从个人在日常工具中反复留下的数字痕迹中提炼结构化自我画像。
 - [Forge Skill](https://github.com/YIKUAIBANZI/forge-skill) - 将自我蒸馏与他人蒸馏拆分为独立流程，用于自我镜像、记忆整理与角色化对话。
 - [永生.skill](https://github.com/agenmod/immortal-skill) - 基于聊天记录与相关资料整理多维数字人格画像。
-- [my-digital-life](https://github.com/weixr18/my-digital-life) - 一套将个人知识库升级为数字分身/数字生命的框架
+- [数字生命开源计划](https://github.com/weixr18/my-digital-life) - 一套将个人知识库升级为数字分身/数字生命的框架
 - [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - 从个人的心智模型、决策启发式与表达模式中提炼可复用技能。
 - [VibePortrait](https://github.com/dadwadw233/VibePortrait) - 从 Vibe Coding 对话中生成开发者个人画像，提炼开发技能与偏好。
 - [自己.skill](https://github.com/notdog1998/yourself-skill) - 将个人对话与记录整理为自我蒸馏助手。
@@ -54,7 +54,7 @@
 - [同事.skill](https://github.com/titanwings/colleague-skill) - 从团队资料中整理前同事的工作上下文、习惯与沟通方式。
 - [HR.skill](https://github.com/Schlaflied/hr-skill) - 从拒信与招聘流程中整理 HR 的沟通逻辑与决策模式，帮助求职者反向拆解筛选标准并重构求职叙事。
 - [大学老师.skill](https://github.com/CommitHu502Craft/professor-skill) - 从课程资料与教师风格中整理复习重点、题型偏好与评分线索。
-- [骂人求职.skill](https://github.com/Schlaflied/roast-cold-email-skill) - 从公司公开信息与招聘材料中生成有理有据的批评性求职邮件，用精准观察替代空洞赞美，帮助被忽视的求职者重新进入视野。
+- [roast-cold-email-skill](https://github.com/Schlaflied/roast-cold-email-skill) - 从公司公开信息与招聘材料中生成有理有据的批评性求职邮件，用精准观察替代空洞赞美，帮助被忽视的求职者重新进入视野。
 - [师兄.skill](https://github.com/zhanghaichao520/senpai-skill) - 从课题组材料中提炼资深成员的指导方式与救火风格。
 - [导师.skill](https://github.com/ybq22/supervisor) - 将导师的指导风格整理为面向学生与教育工作者的导师助手。
 
@@ -74,11 +74,12 @@
 - [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) - 提炼埃隆·马斯克的第一性原理与产品思维，形成可复用的决策框架。
 - [峰哥亡命天涯 Skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
 - [费曼.skill](https://github.com/alchaincyf/feynman-skill) - 提炼理查德·费曼的解释风格与求真启发式，形成可复用的方法论框架。
+- [郭德纲.skill](https://github.com/ByteRax/guodegang-skills) - 郭德纲的认知操作系统，基于3本著作全文分析、6维网络深度调研、80+来源交叉验证，覆盖职业选择、团队管理、逆境坚持、人际博弈等场景，具有很强的实用价值和方法论意义。
 - [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - 提炼户晨风的消费现实主义视角，用于分析消费、城市与职业选择。
 - [Ilya.skill](https://github.com/alchaincyf/ilya-sutskever-skill) - 提炼 Ilya Sutskever 对规模化、研究突破与超级智能的判断框架，形成可复用的方法论视角。
 - [KarlMarx Skill](https://github.com/baojiachen0214/karlmarx-skill) - 提炼马克思主义的结构分析、矛盾分析与实践检验方法，形成用于深层问题分析的方法论框架。
 - [Karpathy.skill](https://github.com/alchaincyf/karpathy-skill) - 提炼 Andrej Karpathy 对 AI 工程、教育与研究的思考框架，形成可复用的方法论视角。
-- [maozedong.skill](https://github.com/wwwaapplleecu-source/mao-skill) - 通过使用网络公开著作，深刻蒸馏毛教员的思想和方法论。
+- [毛泽东.skill](https://github.com/wwwaapplleecu-source/mao-skill) - 通过使用网络公开著作，深刻蒸馏毛教员的思想和方法论。
 - [毛选.skill](https://github.com/leezythu/maoxuan-skill) - 提炼《毛选》中的矛盾分析、根据地思维与战略判断框架，形成可复用的方法论视角。
 - [MrBeast.skill](https://github.com/alchaincyf/mrbeast-skill) - 提炼 MrBeast 的内容选题、包装与观众留存方法，形成可复用的创作打法。
 - [芒格.skill](https://github.com/alchaincyf/munger-skill) - 提炼查理·芒格的跨学科心智模型与决策启发式，形成可复用的方法论框架。
@@ -93,13 +94,12 @@
 - [X 导师.skill](https://github.com/alchaincyf/x-mentor-skill) - 整合多位社交平台创作者的写作与增长打法，形成统一的导师式方法论技能。
 - [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) - 提炼张一鸣的产品、组织与战略判断框架，形成可复用的方法论视角。
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 提炼张雪峰在升学、考试与职业规划方面的实用框架，形成可复用的方法论视角。
-- [郭德纲.skill](https://github.com/ByteRax/guodegang-skills) - 郭德纲的认知操作系统，基于3本著作全文分析、6维网络深度调研、80+来源交叉验证，覆盖职业选择、团队管理、逆境坚持、人际博弈等场景，具有很强的实用价值和方法论意义。
 - [zizek-skill](https://github.com/JikunR/zizek-skill) - 一个用齐泽克式的问题意识做分析的工具——追问前提、追踪欲望、识别功能、揭示矛盾，然后留下一个更准确的说法。
 
 ## 精神性与专门化主题
 
 - [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) - 基于出生信息与传统命理典籍进行四柱排盘与分析。
-- [💎 金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) - 把《金刚经》连同南怀瑾、费勇两位大师的解读精华，用大模型知识蒸馏，炼成了一个专属的 AI 插件。
+- [金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) - 把《金刚经》连同南怀瑾、费勇两位大师的解读精华，用大模型知识蒸馏，炼成了一个专属的 AI 插件。
 - [Master-skill](https://github.com/xr843/Master-skill) - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
 - [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
 - [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) - 将姻缘测算整理为多模式传统术数技能，覆盖合婚、求签与桃花运势。
