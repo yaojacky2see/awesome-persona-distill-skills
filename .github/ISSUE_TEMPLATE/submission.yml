@@ -7,6 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        请先阅读 [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)。 / Please read [CONTRIBUTING.en.md](../blob/main/CONTRIBUTING.en.md) first.
+
         请完整填写下列表单。维护者审核通过后，会通过 `approved` 标签自动生成 PR。
 
         Complete this form in full. Once a maintainer approves it, adding the `approved` label will generate a pull request automatically.
@@ -72,7 +74,6 @@ body:
     id: checks
     attributes:
       label: 确认事项 / Confirmations
-      description: 请先阅读 [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)。 / Please read [CONTRIBUTING.en.md](../blob/main/CONTRIBUTING.en.md) first.
       options:
         - label: 我已阅读并遵循贡献指南 / I have read and follow the contribution guide
           required: true
